@@ -35,54 +35,79 @@ Tech Stack:
 
 ## 🚀 What I’m Building Now
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| **🌎 [MarillionEx Eco Credits](https://www.marillionex.com/)** | Web-based app for eco credits and carbon offsets. Handling full-stack dev, AWS infrastructure, admin dashboard, and crypto integrations. | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=43e97b) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=43e97b) |
-| **🌺 [PetalZee.com](https://www.petalzee.com)** | Next.js affiliate marketplace for local florists in the USA. Scaling across all 50 states, leveraging SEO + programmatic content for growth. | ![Next.js](https://img.shields.io/badge/Next.js-1a1d23?style=flat&logo=next.js&logoColor=43e97b) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=43e97b) |
-| **🦉 Insurance Leadgen Apps** | Running insurance leadgen sites integrating real-time quote APIs (MediaAlpha), serverless backend, and high-converting landing pages. | ![WordPress](https://img.shields.io/badge/WordPress-23282d?style=flat&logo=wordpress&logoColor=43e97b) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=43e97b) ![CI/CD](https://img.shields.io/badge/CI%2FCD-232F3E?style=flat&logo=github-actions&logoColor=43e97b) |
-| **🔑 LawZee.com** | Legal resource directory + leadgen for US law schools and attorneys, built for SEO and passive revenue. | ![SEO](https://img.shields.io/badge/SEO-232F3E?style=flat&logo=google&logoColor=43e97b) |
+| Project | Description |
+| --- | --- |
+| 🌎 **[MarillionEx Eco Credits](https://www.marillionex.com/)** | Web-based app for eco credits and carbon offsets. Full-stack dev, AWS infra, admin dashboard, crypto integrations. |
+| 🌺 **[PetalZee.com](https://www.petalzee.com)** | Next.js affiliate marketplace for florists, scaling across all 50 states, SEO & programmatic content. |
+| 🦉 **Insurance Leadgen Apps** | Insurance leadgen sites using real-time APIs (MediaAlpha), serverless backend, high-converting landing pages. |
+| 🔑 **LawZee.com** | Legal resource directory + leadgen for US law schools and attorneys. SEO-first, passive revenue. |
+
+**Tech stack:**  
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=43e97b)
+![Next.js](https://img.shields.io/badge/Next.js-1a1d23?style=flat&logo=next.js&logoColor=43e97b)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=43e97b)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=43e97b)
+![WordPress](https://img.shields.io/badge/WordPress-23282d?style=flat&logo=wordpress&logoColor=43e97b)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-232F3E?style=flat&logo=github-actions&logoColor=43e97b)
+![SEO](https://img.shields.io/badge/SEO-232F3E?style=flat&logo=google&logoColor=43e97b)
+
+---
 
 ## 👨‍💻 What I Do
 
 | Area | Skills & Focus |
 | --- | --- |
-| 🖥️ **Full-Stack Engineering** | Next.js, React, Node, PHP, Python, Django, Laravel, TypeScript, REST/GraphQL APIs, automation scripting |
-| 🛠️ **DevOps & System Admin** | AWS, Linux, VPS & cPanel, Docker, NGINX, infra automation, backup & disaster recovery |
-| 🌐 **SEO & Growth** | Data-driven content strategy, programmatic SEO, scaling high-traffic web platforms |
-| 💸 **Lead Generation / Affiliate** | Custom insurance, real-estate & local-business lead-gen sites integrating API offers |
-| 🧠 **Mentorship & Community** | Contributor, technical writer, creator of guides for automating business systems |
+| 🖥️ Full-Stack Engineering | Next.js, React, Node, PHP, Python, Django, Laravel, TypeScript, REST/GraphQL APIs, scripting |
+| 🛠️ DevOps & SysAdmin | AWS, Linux, VPS, cPanel, Docker, NGINX, infra automation, backup & disaster recovery |
+| 🌐 SEO & Growth | Data-driven content strategy, programmatic SEO, scaling high-traffic platforms |
+| 💸 Lead Gen / Affiliate | Insurance, real estate, local business leadgen with API integrations |
+| 🧠 Mentorship | Contributor, technical writer, guides for automating business systems |
+
+---
 
 ## 🧰 Tech Toolbox
-<div align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git" /> </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git" />
+</p>
+
+---
 
 ## 🌟 Featured Content
 
 | Topic | Highlights | Link |
 | --- | --- | --- |
-| ✍️ **SEO, WebPerf & Conversion Hacks** | Technical deep-dives on Core Web Vitals, programmatic SEO, and data-driven CRO. | [Ravensdale Blog](https://www.ravensdale.co.za/blog/) |
-| 🤖 **AI & Automation** | LLM-powered chatbots, vector search, GPT-based data pipelines, and workflow orchestration. | — |
-| 🏥 **Health-Tech Tools** | HIPAA-compliant dashboards, FHIR/HL7 integrations, remote-patient monitoring, and billing automation. | — |
-| ⚡ **Renewable-Energy Apps** | Solar-PV sizing calculators, grid-aware IoT monitoring, carbon-accounting dashboards, energy-credit tokenization. | — |
-| ☕ **Coffee Science Articles** | Brew guides, gear reviews, extraction science, and origin stories. | [Coffee Tea Warehouse — Brew Blog](https://coffeeteawarehouse.com/blogs/brew-blog) |
+| ✍️ SEO, WebPerf, Conversion | Deep-dives: Core Web Vitals, programmatic SEO, data-driven CRO | [Ravensdale Blog](https://www.ravensdale.co.za/blog/) |
+| 🤖 AI & Automation | LLM chatbots, vector search, GPT-based pipelines, workflow orchestration | — |
+| 🏥 Health-Tech Tools | HIPAA dashboards, FHIR/HL7, RPM, billing automation | — |
+| ⚡ Renewable-Energy Apps | Solar-PV sizing, IoT monitoring, carbon accounting, energy credits | — |
+| ☕ Coffee Science | Brew guides, reviews, extraction science, origin stories | [Coffee Tea Warehouse](https://coffeeteawarehouse.com/blogs/brew-blog) |
+
+---
 
 ### 🤝 Open to Collaborations
-Building SaaS MVPs, affiliate/lead-gen funnels, WordPress/Next.js sites, cloud infra, automation, scraping—let’s ship together!
+
+SaaS MVPs, affiliate/lead-gen funnels, WordPress/Next.js, cloud infra, automation, scraping—**let’s ship together!**
 
 **Contact:** [hello@ravensdale.co.za](mailto:hello@ravensdale.co.za)
+
+---
 
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trixxmanaty&show_icons=true&theme=algolia&hide_border=true" alt="trixxmanaty GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trixxmanaty&theme=algolia&hide_border=true" alt="trixxmanaty GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxmanaty&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trixxmanaty&show_icons=true&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trixxmanaty&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxmanaty&layout=compact&theme=algolia&hide_border=true" />
 </p>
+
+---
+
 ## 🌌 Fun Fact
 
-> **Built a live cricket-scoring app—while on the field, during a match.**  
+> Built a live cricket-scoring app—while on the field, during a match.  
 > Automation, hustle, & caffeine keep me running. ☕️🏏
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1217&height=80&section=footer&text=Built%20with%20passion%20and%20coffee%20☕️&fontColor=43e97b&fontSize=22" alt="Built with passion and coffee" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1217&height=80&section=footer&text=Built%20with%20passion%20and%20coffee%20☕️&fontColor=43e97b&fontSize=22" />
 </p>
-
