@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <a href="https://twitter.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Twitter" /></a>
+  <a href="https://x.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/kudakwashe-zafevere"><img src="https://img.shields.io/badge/LinkedIn-%231A1D23.svg?&style=for-the-badge&logo=linkedin&logoColor=43e97b" alt="LinkedIn" /></a>
   <a href="mailto:hello@ravensdale.co.za"><img src="https://img.shields.io/badge/Email-%231A1D23.svg?&style=for-the-badge&logo=gmail&logoColor=43e97b" alt="Email" /></a>
   <a href="https://www.ravensdale.co.za"><img src="https://img.shields.io/badge/Portfolio-%231A1D23.svg?&style=for-the-badge&logo=vercel&logoColor=43e97b" alt="Portfolio" /></a>
@@ -27,7 +27,7 @@
 | Area             | Skills & Focus                                                                                      |
 |------------------|----------------------------------------------------------------------------------------------------|
 | **Full Stack Dev** | React, Next.js, Node.js, PHP, Python, WordPress, WooCommerce, GraphQL, tRPC, Prisma, Tailwind, AWS, Linux |
-| **SysAdmin**     | Ubuntu, CentOS, cPanel, NGINX/Apache, automation scripts, performance tuning                        |
+| **SysAdmin**     | Ubuntu, CentOS, cPanel, CloudLinux, NGINX/Apache, automation scripts, performance tuning                        |
 | **Automation**   | Leadgen systems, Affiliate APIs, Email & CRM, scraping, CI/CD                                      |
 | **Techpreneur**  | Bootstrapping SaaS, digital marketplaces, SEO, analytics, growth hacking                           |
 | **Product**      | UX strategy, system architecture, rapid prototyping, scaling startups                              |
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git,html,css,bootstrap,jenkins,jquery,kubernetes,postman,selenium,swift,vercel,visualstudio,workers,xd"/>
 
 </div>
 
