@@ -1,4 +1,3 @@
-<!-- DARK THEME PROFILE README - KUDA -->
 <h1 align="center" style="color:#43e97b;">👋 Hi, I’m Kuda Zafevere</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=43e97b&width=500&lines=Full+Stack+Developer;Techpreneur+%26+SysAdmin;Building+Digital+Businesses;Insanely+Curious+About+Automation" alt="Typing SVG" />
@@ -65,4 +64,5 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1217&height=80&section=footer&text=Built%20with%20passion%20and%20coffee%20☕️&fontColor=43e97b&fontSize=22" />
 </p>
 
-[[Buy Me a Coffee]("https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/kudaz)
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/kudaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kudaz" /></a></p><br><br>
