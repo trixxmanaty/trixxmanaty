@@ -65,3 +65,4 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1217&height=80&section=footer&text=Built%20with%20passion%20and%20coffee%20☕️&fontColor=43e97b&fontSize=22" />
 </p>
 
+[[Buy Me a Coffee]("https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/kudaz)
