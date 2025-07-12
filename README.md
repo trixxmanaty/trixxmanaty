@@ -33,7 +33,7 @@ Tech Stack:
   - Techpreneur: Bootstrapping SaaS, digital marketplaces, SEO, analytics, growth hacking
   - Product: UX strategy, system architecture, rapid prototyping, scaling startups
 
-## 🚀 What I’m Building Now
+## 🚀 **What I’m Building Now**
 
 | Project | Description |
 | --- | --- |
@@ -42,7 +42,7 @@ Tech Stack:
 | 🦉 **Insurance Leadgen Apps** | Insurance leadgen sites using real-time APIs (MediaAlpha), serverless backend, high-converting landing pages. |
 | 🔑 **LawZee.com** | Legal resource directory + leadgen for US law schools and attorneys. SEO-first, passive revenue. |
 
-**Tech stack:**  
+##**Tech stack:**  
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=43e97b)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1d23?style=flat&logo=next.js&logoColor=43e97b)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=43e97b)
@@ -53,7 +53,7 @@ Tech Stack:
 
 ---
 
-## 👨‍💻 What I Do
+## 👨‍💻 **What I Do**
 
 | Area | Skills & Focus |
 | --- | --- |
@@ -65,7 +65,7 @@ Tech Stack:
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 **Tech Toolbox**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git" />
@@ -73,7 +73,7 @@ Tech Stack:
 
 ---
 
-## 🌟 Featured Content
+## 🌟 **Featured Content**
 
 | Topic | Highlights | Link |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Tech Stack:
 
 ---
 
-### 🤝 Open to Collaborations
+### 🤝 **Open to Collaborations**
 
 SaaS MVPs, affiliate/lead-gen funnels, WordPress/Next.js, cloud infra, automation, scraping—**let’s ship together!**
 
@@ -93,7 +93,7 @@ SaaS MVPs, affiliate/lead-gen funnels, WordPress/Next.js, cloud infra, automatio
 
 ---
 
-## 📈 Stats
+## 📈 **Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trixxmanaty&show_icons=true&theme=algolia&hide_border=true" />
@@ -103,7 +103,7 @@ SaaS MVPs, affiliate/lead-gen funnels, WordPress/Next.js, cloud infra, automatio
 
 ---
 
-## 🌌 Fun Fact
+## 🌌 **Fun Fact**
 
 > Built a live cricket-scoring app—while on the field, during a match.  
 > Automation, hustle, & caffeine keep me running. ☕️🏏
