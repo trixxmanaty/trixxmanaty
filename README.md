@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#43e97b;">👋 Hi, I’m Kuda Zafevere</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=43e97b&width=500&lines=Full+Stack+Developer;Techpreneur+%26+SysAdmin;Building+Digital+Businesses;Insanely+Curious+About+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00fff5&width=500&lines=Full+Stack+Developer;Techpreneur+%26+SysAdmin;Building+Digital+Businesses;Insanely+Curious+About+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
