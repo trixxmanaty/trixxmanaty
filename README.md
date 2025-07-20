@@ -1,10 +1,10 @@
 <h1 align="center" style="color:#43e97b;">👋 Hi, I’m Kuda Zafevere</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00fff5&width=500&lines=Full+Stack+Developer;Techpreneur+%26+SysAdmin;Building+Digital+Businesses;Insanely+Curious+About+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0B5122&width=500&lines=Full+Stack+Developer;Techpreneur+%26+SysAdmin;Building+Digital+Businesses;Insanely+Curious+About+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trixxmanaty&label=Profile%20views&color=43e97b&style=flat" alt="trixxmanaty" />
+  <img src="https://komarev.com/ghpvc/?username=trixxmanaty&label=Profile%20views&color=0B5122&style=flat" alt="trixxmanaty" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 </p>
 
 <div align="center">
-  <a href="https://x.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Twitter" /></a>
+  <a href="https://x.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Kuda on X" /></a>
   <a href="https://linkedin.com/in/kudakwashe-zafevere"><img src="https://img.shields.io/badge/LinkedIn-%231A1D23.svg?&style=for-the-badge&logo=linkedin&logoColor=43e97b" alt="LinkedIn" /></a>
-  <a href="mailto:hello@ravensdale.co.za"><img src="https://img.shields.io/badge/Email-%231A1D23.svg?&style=for-the-badge&logo=gmail&logoColor=43e97b" alt="Email" /></a>
-  <a href="https://www.ravensdale.co.za"><img src="https://img.shields.io/badge/Portfolio-%231A1D23.svg?&style=for-the-badge&logo=vercel&logoColor=43e97b" alt="Portfolio" /></a>
+  <a href="mailto:hello@ravensdale.co.za"><img src="https://img.shields.io/badge/Email-%231A1D23.svg?&style=for-the-badge&logo=gmail&logoColor=0B5122" alt="Email" /></a>
+  <a href="https://www.ravensdale.co.za"><img src="https://img.shields.io/badge/Portfolio-%231A1D23.svg?&style=for-the-badge&logo=vercel&logoColor=0B5122" alt="Portfolio" /></a>
 </div>
 
 ---
