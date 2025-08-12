@@ -15,8 +15,6 @@
  <summary><b>👨‍💻 About Me</b></summary>
  <br/>
  I'm a Full Stack Developer and Techpreneur with a passion for building digital businesses from the ground up. My expertise lies in turning ideas into scalable, high-performance web applications. I'm driven by a deep curiosity for automation and creating seamless user experiences.
- <br/><br/>
- If you like my work, please consider sponsoring me! Your support allows me to dedicate more time to open-source projects.
 </details>
 
 ---
