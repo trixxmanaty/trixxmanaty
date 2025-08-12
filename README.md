@@ -1,68 +1,48 @@
-<h1 align="center" style="color:#43e97b;">👋 Hi, I’m Kuda Zafevere</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0B5122&width=500&lines=Full+Stack+Developer;Techpreneur+%26+SysAdmin;Building+Digital+Businesses;Insanely+Curious+About+Automation" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trixxmanaty&label=Profile%20views&color=0B5122&style=flat" alt="trixxmanaty" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trixxmanaty&theme=algolia&margin-w=10" alt="github trophies" />
-  </a>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0B5122&height=180&section=header&text=Kuda%20Zafevere&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Techpreneur%20%7C%20SysAdmin&descAlignY=55&descAlign=62" />
 </p>
 
 <div align="center">
-  <a href="https://x.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Kuda on X" /></a>
-  <a href="https://linkedin.com/in/kudakwashe-zafevere"><img src="https://img.shields.io/badge/LinkedIn-%231A1D23.svg?&style=for-the-badge&logo=linkedin&logoColor=43e97b" alt="LinkedIn" /></a>
-  <a href="mailto:hello@ravensdale.co.za"><img src="https://img.shields.io/badge/Email-%231A1D23.svg?&style=for-the-badge&logo=gmail&logoColor=0B5122" alt="Email" /></a>
-  <a href="https://www.ravensdale.co.za"><img src="https://img.shields.io/badge/Portfolio-%231A1D23.svg?&style=for-the-badge&logo=vercel&logoColor=0B5122" alt="Portfolio" /></a>
+ <a href="https://x.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Kuda on X" /></a>
+ <a href="https://linkedin.com/in/kudakwashe-zafevere"><img src="https://img.shields.io/badge/LinkedIn-%231A1D23.svg?&style=for-the-badge&logo=linkedin&logoColor=43e97b" alt="LinkedIn" /></a>
+ <a href="mailto:hello@ravensdale.co.za"><img src="https://img.shields.io/badge/Email-%231A1D23.svg?&style=for-the-badge&logo=gmail&logoColor=0B5122" alt="Email" /></a>
+ <a href="https://www.ravensdale.co.za"><img src="https://img.shields.io/badge/Portfolio-%231A1D23.svg?&style=for-the-badge&logo=vercel&logoColor=0B5122" alt="Portfolio" /></a>
 </div>
 
+<br/>
+
+<details>
+ <summary><b>👨‍💻 About Me</b></summary>
+ <br/>
+ I'm a Full Stack Developer and Techpreneur with a passion for building digital businesses from the ground up. My expertise lies in turning ideas into scalable, high-performance web applications. I'm driven by a deep curiosity for automation and creating seamless user experiences.
+ <br/><br/>
+ If you like my work, please consider sponsoring me! Your support allows me to dedicate more time to open-source projects.
+</details>
+
 ---
-## 🛠️ Who Am I?
 
-| Area             | Skills & Focus                                                                                      |
-|------------------|----------------------------------------------------------------------------------------------------|
-| **Full Stack Dev** | React, Next.js, Node.js, PHP, Python, WordPress, WooCommerce, GraphQL, tRPC, Prisma, Tailwind, AWS, Linux |
-| **SysAdmin**     | Ubuntu, CentOS, cPanel, CloudLinux, NGINX/Apache, automation scripts, performance tuning                        |
-| **Automation**   | Leadgen systems, Affiliate APIs, Email & CRM, scraping, CI/CD                                      |
-| **Techpreneur**  | Bootstrapping SaaS, digital marketplaces, SEO, analytics, growth hacking                           |
-| **Product**      | UX strategy, system architecture, rapid prototyping, scaling startups                              |
-
----
-
-## 🧩 Tech Stack & Tools
-
-**Languages & Frameworks:**  
-[React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=43e97b)
-[Next.js](https://img.shields.io/badge/Next.js-1a1d23?style=flat&logo=next.js&logoColor=43e97b)
-[AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=43e97b)
-[PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=43e97b)
-[WordPress](https://img.shields.io/badge/WordPress-23282d?style=flat&logo=wordpress&logoColor=43e97b)
-[CI/CD](https://img.shields.io/badge/CI%2FCD-232F3E?style=flat&logo=github-actions&logoColor=43e97b)
-[SEO](https://img.shields.io/badge/SEO-232F3E?style=flat&logo=google&logoColor=43e97b)
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git,html,css,bootstrap,jenkins,jquery,kubernetes,postman,selenium,swift,vercel,visualstudio,workers,xd"/>
-
+ <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,python,aws,wordpress,linux,docker,nginx,typescript,graphql,prisma,tailwind,figma,gcp,mysql,postgresql,mongodb,redis,git,html,css,bootstrap,jenkins,jquery,kubernetes,postman,selenium,swift,vercel,visualstudio,workers,xd"/>
 </div>
 
-## 📈 Stats
+---
+
+### 📈 My Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trixxmanaty&show_icons=true&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trixxmanaty&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxmanaty&layout=compact&theme=algolia&hide_border=true" />
+ <a href="https://github.com/trixxmanaty">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=trixxmanaty&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trixxmanaty&theme=algolia&hide_border=true" />
+ </a>
+</p>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxmanaty&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1217&height=80&section=footer&text=Built%20with%20passion%20and%20coffee%20☕️&fontColor=43e97b&fontSize=22" />
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1217&height=80&section=footer&text=Built%20with%20passion%20and%20coffee%20☕️&fontColor=43e97b&fontSize=22" />
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/kudaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kudaz" /></a></p><br><br>
