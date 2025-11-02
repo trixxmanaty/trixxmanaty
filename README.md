@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=trixxmanaty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0B5122&height=180&section=header&text=Kuda%20Zafevere&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Techpreneur%20%7C%20SysAdmin&descAlignY=55&descAlign=62" /> </p> <div align="center"> <a href="https://x.com/trixxmanaty"><img src="https://img.shields.io/twitter/follow/trixxmanaty?logo=twitter&style=for-the-badge&color=1A1D23&labelColor=1A1D23" alt="Kuda on X" /></a> <a href="https://linkedin.com/in/kudakwashe-zafevere"><img src="https://img.shields.io/badge/LinkedIn-%231A1D23.svg?&style=for-the-badge&logo=linkedin&logoColor=43e97b" alt="LinkedIn" /></a> <a href="mailto:hello@ravensdale.co.za"><img src="https://img.shields.io/badge/Email-%231A1D23.svg?&style=for-the-badge&logo=gmail&logoColor=0B5122" alt="Email" /></a> <a href="https://www.ravensdale.co.za"><img src="https://img.shields.io/badge/Portfolio-%231A1D23.svg?&style=for-the-badge&logo=vercel&logoColor=0B5122" alt="Portfolio" /></a> </div> <br/> <details> <summary><b>👨‍💻 About Me</b></summary> <br/> I'm a Full Stack Developer and Techpreneur with a passion for building digital businesses from the ground up. My expertise lies in turning ideas into scalable, high-performance web applications. I'm driven by a deep curiosity for automation and creating seamless user experiences. </details> 
 --- 
 
